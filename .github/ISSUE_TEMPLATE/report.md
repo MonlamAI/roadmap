@@ -21,5 +21,3 @@ What has been learned from the project? What adjustments have been made?
 
 ## Responses to feedback
 How have you addressed reccomendations and/or feedback from previous report?
-
-
