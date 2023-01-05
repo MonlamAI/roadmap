@@ -16,7 +16,6 @@ Monlam AI FY23-24 planning, data and reports
 - [🎬 MonlamAI FY23 Action Roadmap](https://github.com/orgs/MonlamAI/projects/3)
 
 **Templates**
-- [Idea](https://github.com/buda-base/homebase/issues/new?assignees=&labels=&template=idea.md&title=)
-- [Action item](https://github.com/buda-base/homebase/issues/new?assignees=&labels=&template=action-item.md&title=)
-- [Success story](https://github.com/buda-base/homebase/issues/new?assignees=&labels=&template=success-story.md&title=)
-- [Report](https://github.com/buda-base/homebase/issues/new?assignees=&labels=&template=report.md&title=)
+- [Action item](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=action-item.md&title=)
+- [Success story](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=success-story.md&title=)
+- [Report](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=report.md&title=)
