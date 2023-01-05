@@ -13,7 +13,7 @@ Monlam AI FY23-24 planning, data and reports
 - [🎯Q1 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
 - [🚩Q1 Last-call](https://github.com/buda-base/BudaX-Admin/milestone/3)
 - [🏗️FY23 Technology Workplan](https://github.com/orgs/buda-base/projects/12)
-- [🎬 MonlamAI FY23 Action Roadmap](https://github.com/orgs/buda-base/projects/15)
+- [🎬 MonlamAI FY23 Action Roadmap](https://github.com/orgs/MonlamAI/projects/3)
 
 **Templates**
 - [Idea](https://github.com/buda-base/homebase/issues/new?assignees=&labels=&template=idea.md&title=)
