@@ -48,7 +48,7 @@ assignees: ''
 - [ ] RFJ: [RFJ template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfj.md&title=RFJ00+-+) 
 - [ ] RFC: [RFC template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfc.md&title=RFC00+-+)
 - [ ] Output: `Add link to Output document`
-- [ ] Success stories: [Success story template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=success-story.md&title=)
+- [ ] Success story: [Success story template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=success-story.md&title=)
 - [ ] Report: [Report template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=report.md&title=)
 
 
