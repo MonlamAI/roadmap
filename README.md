@@ -2,13 +2,8 @@
 
 Monlam AI FY23-24 planning, data and reports
 
-## How-to homebase
-1. ... (everything it takes to get ripe ideas)
-1. Once an idea is ripe, create an action item with [this template]() and add it `🧭 RFXs` 
-
-
-> ✨  Tibetan-English machine translation. <br>
-> ✨  Stimulating the life-cycle of Tibetan literature 🚀 by providing key actors with productive tools, skills and resources.
+> ✨ vision <br>
+> 🚀 mission
 
 - [🔁MT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
 - [💬STT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/2)
