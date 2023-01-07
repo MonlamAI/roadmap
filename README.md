@@ -10,7 +10,9 @@ Monlam AI FY23-24 planning, data and reports
 > ✨  Tibetan-English machine translation. <br>
 > ✨  Stimulating the life-cycle of Tibetan literature 🚀 by providing key actors with productive tools, skills and resources.
 
-- [🎯Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
+- [🔁MT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
+- [💬STT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/2)
+- [👁️‍🗨️OCR Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/3)
 - [🚩Q2 Last-call](https://github.com/buda-base/BudaX-Admin/milestone/3)
 - [🏗️FY23 Technology Workplan](https://github.com/orgs/buda-base/projects/12)
 - [🎬 MonlamAI FY23 Action Roadmap](https://github.com/orgs/MonlamAI/projects/3)
