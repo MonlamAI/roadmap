@@ -6,24 +6,14 @@ labels: ''
 assignees: ''
 
 ---
-
-## Idea stage
 > **Note**:
-> For initial ideas, fill out the first three sections of this form and put it in Triage column of the [🎬 Action Roadmap](https://github.com/orgs/MonlamAI/projects/3).
+> Replace these links with actual links as these supporting documents are completed.
 
-### 📝 Summary
-*In one or two sentences, write a description of the proposed project.*
-
-### 🎯 Intended Outcome***<br>
-*Explain the issue that this project will address. Briefly describe how it will solve the problem.*
-
-### ⚙️ How will it work?***<br>
-*Include specific details or steps to show how this project will address and resolve the problem.*
-
-## Action item stage (from RFXs to shipped)
-
-> **Note**:
-> After moving the idea from the Triage column to the RFXs column, complete the rest of the sections and provide links to the required supporting documents below.
+- [ ] RFJ: [RFJ template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfj.md&title=RFJ00+-+) 
+- [ ] RFC: [RFC template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfc.md&title=RFC00+-+)
+- [ ] Output: `Add link to Output document`
+- [ ] Success story: [Success story template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=success-story.md&title=)
+- [ ] Report: [Report template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=report.md&title=)
 
 ### Summary
 *The summary is a short description of the project. It can be the same as the summary in the RFXs.*
@@ -39,17 +29,4 @@ assignees: ''
 
 ### Risks / Assumptions
 *Risks / Assumptions are beliefs about things that could impact the project's success, but we don't have control over, such as changes in prices, weather, or government policies*
-*Example: There won't be anymore Covid lockdowns and the Chinese government will allow us to conduct these training sessions.*
-
-## Supporting documents
-> **Note**:
-> Replace these links with actual links as these supporting documents are completed.
-
-- [ ] RFJ: [RFJ template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfj.md&title=RFJ00+-+) 
-- [ ] RFC: [RFC template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfc.md&title=RFC00+-+)
-- [ ] Output: `Add link to Output document`
-- [ ] Success story: [Success story template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=success-story.md&title=)
-- [ ] Report: [Report template](https://github.com/MonlamAI/roadmap/issues/new?assignees=&labels=&template=report.md&title=)
-
-
-
+*Example: There won't be any more Covid lockdowns and the Chinese government will allow us to conduct these training sessions.*
