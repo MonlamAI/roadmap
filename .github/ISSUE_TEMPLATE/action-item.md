@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 > **Note**:
-> For directions on how to fill out this form, check the [🎬 Action Roadmap readme](https://github.com/orgs/MonlamAI/projects/3/settings?pane=info).
+> For help filling this out, look at the [🎬 Action Roadmap readme](https://github.com/orgs/MonlamAI/projects/3/settings?pane=info).
 
 - [ ] RFJ: [RFJ template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfj.md&title=RFJ00+-+) 
 - [ ] RFC: [RFC template](https://github.com/MonlamAI/requests/issues/new?assignees=&labels=&template=rfc.md&title=RFC00+-+)
