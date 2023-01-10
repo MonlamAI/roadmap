@@ -2,6 +2,9 @@
 
 Monlam AI FY23-24 planning, data and reports
 
+<a href="https://github.com/orgs/MonlamAI/projects/3?pane=info" target="_blank">Example of how to fill this in...</a>
+
+
 > ✨ vision <br>
 > 🚀 mission
 
