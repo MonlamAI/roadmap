@@ -2,9 +2,6 @@
 
 Monlam AI FY23-24 planning, data and reports
 
-> ✨ vision <br>
-> 🚀 mission
-
 - [🔁MT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/1)
 - [💬STT Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/2)
 - [👁️‍🗨️OCR Q2 OKRs](https://github.com/MonlamAI/roadmap/issues/3)
